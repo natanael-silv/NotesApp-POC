@@ -1,0 +1,5 @@
+@layer components {
+    .gridContainer {
+        @apply grid grid-cols-card gap-8 px-10 
+    }
+}

@@ -1,0 +1,8 @@
+@layer components {
+    .cardWrapper {
+        @apply p-10 flex flex-col items-center rounded-2xl
+    }
+    .cardWrapper__footer{
+        @apply flex mt-20
+    }
+}
